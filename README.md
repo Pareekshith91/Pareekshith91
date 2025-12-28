@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pareekshith91&label=Profile%20views&color=0e75b6&style=flat" alt="pareekshith91" /> </p>
 
-- Aspiring DevOps Engineer | AWS | CI/CD | Docker | Kubernetes
+- Aspiring DevOps Engineer | AWS | CI/CD | Docker | Kubernetes |
   completed AWS & DevOps Internship.
   Hands-on experience in cloud infrastructure, CI/CD pipeline automation, containerization, and monitoring.
   Actively building skills and projects to grow as a DevOps Engineer.
