@@ -3,6 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pareekshith91&label=Profile%20views&color=0e75b6&style=flat" alt="pareekshith91" /> </p>
 
+- Aspiring DevOps Engineer | AWS | CI/CD | Docker | Kubernetes
+  completed AWS & DevOps Internship.
+  Hands-on experience in cloud infrastructure, CI/CD pipeline automation, containerization, and monitoring.
+  Actively building skills and projects to grow as a DevOps Engineer.
+
 - 🔭 I’m currently working as Administrator on [Om Shantidhama Charitable Trust](https://omshantidhama.in/)
 
 - 📑Certifications: [AWS and DevOps Internship Program](https://drive.google.com/file/d/1bdXeW5S8eg0pY_RvRd8CZvZfaASBFJ2U/view), [Certified DevOps Engineer](https://drive.google.com/file/d/1rqQ8PrhAIjgOaNkN48-DvmyOXE-ECezk/view?usp=sharing) and [Certified AWS Solutions Architect](https://drive.google.com/file/d/1OTLfOBl5xqaU4aMijFqHEKwI1zU1y2Hf/view?usp=sharing)
