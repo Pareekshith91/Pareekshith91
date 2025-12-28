@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as Administrator on [Om Shantidhama Charitable Trust](https://omshantidhama.in/)
 
-- 📑Certifications: [AWS and DevOps Internship Program]([https://drive.google.com/file/d/1cqQxCZ8R79Ana1q__tD0HKBmPm72UKmZ/view](https://drive.google.com/file/d/1bdXeW5S8eg0pY_RvRd8CZvZfaASBFJ2U/view?usp=sharing)), [Certified DevOps Engineer]([https://drive.google.com/file/d/1cqQxCZ8R79Ana1q__tD0HKBmPm72UKmZ/view](https://drive.google.com/file/d/1bdXeW5S8eg0pY_RvRd8CZvZfaASBFJ2U/view?usp=sharing)](https://drive.google.com/file/d/1rqQ8PrhAIjgOaNkN48-DvmyOXE-ECezk/view?usp=sharing)) and [Certified AWS Solutions Architect]([[https://drive.google.com/file/d/1cqQxCZ8R79Ana1q__tD0HKBmPm72UKmZ/view](https://drive.google.com/file/d/1bdXeW5S8eg0pY_RvRd8CZvZfaASBFJ2U/view?usp=sharing)](https://drive.google.com/file/d/1rqQ8PrhAIjgOaNkN48-DvmyOXE-ECezk/view?usp=sharing)](https://drive.google.com/file/d/1OTLfOBl5xqaU4aMijFqHEKwI1zU1y2Hf/view?usp=sharing))
+- 📑Certifications: [AWS and DevOps Internship Program](https://drive.google.com/file/d/1cqQxCZ8R79Ana1q__tD0HKBmPm72UKmZ/view), [Certified DevOps Engineer](https://drive.google.com/file/d/1cqQxCZ8R79Ana1q__tD0HKBmPm72UKmZ/view) and [Certified AWS Solutions Architect](https://drive.google.com/file/d/1cqQxCZ8R79Ana1q__tD0HKBmPm72UKmZ/view)
 
 - 💬 Ask me about **DevOps Tools and AWS Services**
 
